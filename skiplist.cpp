@@ -1,7 +1,4 @@
-/*******************************************************************************************
-  Description: Implementation of "Skip List" in C.
-  For further clarification, please contact Kaustuv Nag (kaustuv.nag@gmail.com, 9232682253).
-*******************************************************************************************/
+
 
 # include <stdlib.h>
 # include <stdio.h>
