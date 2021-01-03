@@ -1,7 +1,9 @@
 #include<iostream>
 #include<limits>
 #include<algorithm>
+
 using namespace std;
+
 int cut_rod(int* len,int n)
 {
     if(n==0)
